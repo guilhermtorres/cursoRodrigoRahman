@@ -66,6 +66,9 @@ void main() {
   print('Jornalistas:');
   jornalistas.forEach(print);
   print('');
+  print('');
+  print('');
+  print('');
   print('3 - Apresente a quantidade de pacientes que moram em SP');
 
   for (var paciente in pacientes) {
